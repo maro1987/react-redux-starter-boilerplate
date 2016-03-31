@@ -19,6 +19,10 @@ After setting up the project, type `npm run dev` to start the webpack dev server
 
 Visit http://localhost:8080/
 
+Test
+--------------------------------------
+After setting up the project, type `npm test` to start Karma and run tests.
+
 Compiling for production
 ---------------------------------------
 To compile the Javascript bundle for production, use `npm run build`.

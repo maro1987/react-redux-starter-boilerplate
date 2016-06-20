@@ -37,4 +37,3 @@ describe('HomeActions', () => {
     });
   });
 });
-

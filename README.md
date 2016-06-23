@@ -41,7 +41,7 @@ $ npm install                   # Install Node modules listed in ./package.json 
 Features
 --------
 
-* [React](https://github.com/facebook/react) (`^0.14.7`)
+* [React](https://github.com/facebook/react) (`^0.15.1`)
 * [Redux](https://github.com/rackt/redux) (`^3.3.1`)
   * react-redux (`^4.4.0`)
   * redux-devtools
